@@ -1,0 +1,33 @@
+_repo: The-house-of-evil_75760
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Queux, William
+    aliases:
+    - Queux, William Le
+    - Queux, William Tufnell Le
+    - Queux, William le
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '3141'
+    url: http://www.gutenberg.org/2009/agents/3141
+    wikipedia: https://en.wikipedia.org/wiki/William_Le_Queux
+description: ''
+gutenberg_issued: '2025-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75760'
+language: en
+pgterms:marc904: https://books.google.com/books?id=BkgPAAAAQAAJ
+pgterms:marc905: 20250324115628lequeux
+pgterms:marc906: '1927'
+pgterms:marc907: GB
+production_note: an anonymous Project Gutenberg volunteer
+publication_note: '  $aLondon :$bWard, Lock & Co., Limited, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The house of evil
+url: http://www.gutenberg.org/ebooks/75760
